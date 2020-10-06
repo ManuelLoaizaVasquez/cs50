@@ -16,5 +16,7 @@ int main(int argc, char* argv[]) {
   while ((ch = fgetc(file)) != EOF) {
     printf("%c", ch);
   }
+
+  fclose(file);
   return 0;
 }
