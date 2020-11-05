@@ -1,4 +1,4 @@
-## Enlaces YouTube
+## Enlaces Poderosos
 * [Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4)
 * [Advanced Data Structures](https://www.youtube.com/playlist?list=PLN-ShipRKQ0h6jIphD381pHdQtj_APRM8)
 * [Computational Geometry](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8W6v1F5OgogHel4T6KjKob)
